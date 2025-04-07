@@ -1224,3 +1224,119 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.04.07-11.10.20:389][233]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManagerB820AFED48C300A142BAD79D0E9A8315.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.uasset'
 [2025.04.07-11.10.20:401][233]AssetCheck: New page: Asset Save: ALS_PlayerCameraManager
 [2025.04.07-11.10.20:401][233]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager
+[2025.04.07-11.15.27:594][243]LogEditorTransaction: Undo Move Node
+[2025.04.07-11.17.16:938][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.04.07-11.17.16:939][407]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.036
+[2025.04.07-11.17.16:940][407]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-11.17.16:953][407]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-11.17.16:953][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-11.17.16:979][407]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto7
+[2025.04.07-11.17.16:980][407]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto7DA8CEDF742520B37035A0E987371006C.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto7.uasset'
+[2025.04.07-11.17.16:990][407]LogFileHelpers: Auto-saving content packages took 0.050
+[2025.04.07-11.28.55:154][113]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-11.28.55:154][113]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-11.30.17:641][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.04.07-11.30.17:643][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.038
+[2025.04.07-11.30.17:643][833]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-11.30.17:652][833]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-11.30.17:652][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-11.30.17:678][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto8
+[2025.04.07-11.30.17:679][833]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto8D492BE974B99A45A92A7B3B0CF25F6D1.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto8.uasset'
+[2025.04.07-11.30.17:679][833]LogFileHelpers: Auto-saving content packages took 0.037
+[2025.04.07-11.40.18:093][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.07-11.40.18:097][145]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.036
+[2025.04.07-11.40.18:097][145]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-11.40.18:114][145]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-11.40.18:114][145]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-11.40.18:152][145]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto9
+[2025.04.07-11.40.18:153][145]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto9337DE3914EE2C4EE869999B7DBD44E91.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto9.uasset'
+[2025.04.07-11.40.18:153][145]LogFileHelpers: Auto-saving content packages took 0.057
+[2025.04.07-11.44.16:788][561]BlueprintLog: New page: Compile ALS_PlayerCameraManager
+[2025.04.07-11.44.16:842][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.07-11.46.09:256][818]LogDerivedDataCache: C:/Users/wuyi7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.264 and deleted 0 file(s) with total size 0 MiB.
+[2025.04.07-11.50.18:850][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.07-11.50.18:855][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.041
+[2025.04.07-11.50.18:856][165]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-11.50.18:865][165]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-11.50.18:865][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-11.50.18:895][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto0
+[2025.04.07-11.50.18:896][165]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto081AC672B42B0EBF2ACD531A3BBD0BE36.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto0.uasset'
+[2025.04.07-11.50.18:897][165]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.04.07-12.12.20:512][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.07-12.12.20:514][126]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.031
+[2025.04.07-12.12.20:514][126]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-12.12.20:533][126]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-12.12.20:533][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-12.12.20:562][126]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto1
+[2025.04.07-12.12.20:562][126]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto129E73D9645591C6BB3FE3DBEFD9B81EF.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto1.uasset'
+[2025.04.07-12.12.20:563][126]LogFileHelpers: Auto-saving content packages took 0.049
+[2025.04.07-12.22.22:073][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.07-12.22.22:075][285]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.045
+[2025.04.07-12.22.22:076][285]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-12.22.22:094][285]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-12.22.22:094][285]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-12.22.22:124][285]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto2
+[2025.04.07-12.22.22:124][285]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto2F30C90CD4A3B0674503D01B6B905CE58.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto2.uasset'
+[2025.04.07-12.22.22:125][285]LogFileHelpers: Auto-saving content packages took 0.050
+[2025.04.07-12.30.06:212][613]BlueprintLog: New page: Compile ALS_PlayerCameraManager
+[2025.04.07-12.30.06:272][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.07-12.30.06:375][616]BlueprintLog: New page: Compile ALS_PlayerCameraManager
+[2025.04.07-12.30.06:436][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.07-12.30.11:016][ 31]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera.Camera
+[2025.04.07-12.30.11:099][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-12.30.11:213][ 31]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-12.30.11:726][ 31]LogViewport: Scene viewport resized to 354x233, mode Windowed.
+[2025.04.07-12.30.13:111][180]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton.Camera_Skeleton
+[2025.04.07-12.30.13:117][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-12.30.13:121][180]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.04.07-12.30.13:214][180]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.07-12.30.13:304][180]LogViewport: Scene viewport resized to 470x233, mode Windowed.
+[2025.04.07-12.30.14:774][320]LogViewport: Scene viewport resized to 1141x986, mode Windowed.
+[2025.04.07-12.34.46:486][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.07-12.34.46:488][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.180
+[2025.04.07-12.34.46:489][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager] ([2] browsable assets)...
+[2025.04.07-12.34.46:493][515]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager]
+[2025.04.07-12.34.46:493][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager]
+[2025.04.07-12.34.46:538][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto3
+[2025.04.07-12.34.46:539][515]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager_Auto333AC0EE1409452BBF14435955C6D27DD.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager_Auto3.uasset'
+[2025.04.07-12.34.46:540][515]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton] ([1] browsable assets)...
+[2025.04.07-12.34.46:545][515]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton.Camera_Skeleton]
+[2025.04.07-12.34.46:545][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton]
+[2025.04.07-12.34.46:546][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton_Auto3
+[2025.04.07-12.34.46:546][515]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/Camera_Skeleton_Auto3395C9C194D65420D2CE9B09FB6A55F27.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton_Auto3.uasset'
+[2025.04.07-12.34.46:547][515]LogFileHelpers: Auto-saving content packages took 0.058
+[2025.04.07-12.43.21:413][315]BlueprintLog: New page: Compile ALS_PlayerCameraManager
+[2025.04.07-12.43.21:577][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.07-12.43.23:232][465]LogViewport: Scene viewport resized to 858x986, mode Windowed.
+[2025.04.07-12.44.00:520][ 84]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP
+[2025.04.07-12.44.00:520][ 84]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_AnimMan_CharacterBP766E7C04440FCEDEF8BFCDB572A6A0EB.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset'
+[2025.04.07-12.44.00:533][ 84]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2025.04.07-12.44.00:543][ 84]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2025.04.07-12.44.01:978][222]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager
+[2025.04.07-12.44.01:978][222]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_PlayerCameraManager7C7C6DCA4451B95DB5AF668345972CE4.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.uasset'
+[2025.04.07-12.44.01:988][222]AssetCheck: New page: Asset Save: ALS_PlayerCameraManager
+[2025.04.07-12.44.01:988][222]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/ALS_PlayerCameraManager.ALS_PlayerCameraManager
+[2025.04.07-12.44.03:271][352]Cmd: SELECT NONE
+[2025.04.07-12.45.05:009][635]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton
+[2025.04.07-12.45.05:010][635]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/Camera_SkeletonAEF14AA0441FEAF107F84E98461D65FB.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton.uasset'
+[2025.04.07-12.45.05:027][635]AssetCheck: New page: Asset Save: Camera_Skeleton
+[2025.04.07-12.45.05:027][635]LogContentValidation: Display: Validating Skeleton /Game/AdvancedLocomotionV4/Blueprints/CameraSystem/Camera_Skeleton.Camera_Skeleton
+[2025.04.07-12.45.06:347][768]LogSlate: Window 'Camera_Skeleton' being destroyed
+[2025.04.07-12.45.06:353][768]LogSlate: Window 'Camera_Skeleton' being destroyed
+[2025.04.07-12.45.06:388][768]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-12.45.06:388][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-12.45.07:264][768]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.04.07-12.45.07:264][768]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-12.45.07:264][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-12.45.07:401][768]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-12.45.07:401][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-12.45.07:509][768]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-12.45.07:509][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-12.45.07:557][768]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.07-12.45.07:557][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.07-12.45.09:570][832]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2025.04.07-12.45.09:688][832]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel
+[2025.04.07-12.45.09:688][832]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel9AE76CC44A7219C9358DFC8D3077EC3E.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap'
+[2025.04.07-12.45.09:814][832]LogFileHelpers: No new changes to save!
+[2025.04.07-12.45.09:824][832]AssetCheck: New page: Asset Save: ALS_DemoLevel
+[2025.04.07-12.45.09:824][832]LogContentValidation: Display: Validating World /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel
