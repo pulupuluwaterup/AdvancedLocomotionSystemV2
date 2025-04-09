@@ -1,0 +1,1311 @@
+﻿Log file open, 04/09/25 21:24:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=40956)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AdvancedLocomotionSystemV2
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\UE\AdvancedLocomotionSystemV2\AdvancedLocomotionSystemV2\AdvancedLocomotionSystemV2.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4890] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|13th Gen Intel(R) Core(TM) i7-13790F"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="bada547e4e380a481e19999a3336b079"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.303767
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-36215CB44CD77BB71EABCFB2221C5996
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.01 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.01 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.01 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.02 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (23H2) [10.0.22631.4890] (), CPU: 13th Gen Intel(R) Core(TM) i7-13790F, GPU: NVIDIA GeForce RTX 4060 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Software/Epic/UE5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2025.04.09-13.24.39:741][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2025.04.09-13.24.39:741][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2025.04.09-13.24.39:741][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2025.04.09-13.24.39:741][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[r.DefaultFeature.AntiAliasing:1]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2025.04.09-13.24.39:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2025.04.09-13.24.39:742][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2025.04.09-13.24.39:742][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2025.04.09-13.24.39:744][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2025.04.09-13.24.39:767][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI: D3D11 adapters:
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4060 Ti
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     DeviceId    : 2803
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     SubSysId    : 51541462
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     DedicatedVideoMemory : 8335130624 bytes
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     SharedSystemMemory : 17069445120 bytes
+[2025.04.09-13.24.39:770][  0]LogD3D11RHI:     AdapterLuid : 0 59804
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4060 Ti' (Feature Level 11_1)
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:       7949/0/16278 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     VendorId    : 1414
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     DeviceId    : 008c
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     SubSysId    : 0000
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     Revision    : 0000
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     SharedSystemMemory : 17069445120 bytes
+[2025.04.09-13.24.39:854][  0]LogD3D11RHI:     AdapterLuid : 0 65724
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:       0/0/16278 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4060 Ti
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     DeviceId    : 2803
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     SubSysId    : 51541462
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     DedicatedVideoMemory : 8335130624 bytes
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     SharedSystemMemory : 17069445120 bytes
+[2025.04.09-13.24.39:856][  0]LogD3D11RHI:     AdapterLuid : 0 59804
+[2025.04.09-13.24.39:856][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.04.09-13.24.39:856][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2025.04.09-13.24.39:856][  0]LogHAL: Display: Platform has ~ 32 GB [34138890240 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.04.09-13.24.39:856][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2025.04.09-13.24.39:856][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2025.04.09-13.24.39:856][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.04.09-13.24.39:856][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.04.09-13.24.39:856][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Config/WindowsEditor/Editor.ini]
+[2025.04.09-13.24.39:856][  0]LogInit: Computer: WIN-ODC50DHVV4T
+[2025.04.09-13.24.39:856][  0]LogInit: User: Administrator
+[2025.04.09-13.24.39:856][  0]LogInit: CPU Page size=4096, Cores=16
+[2025.04.09-13.24.39:856][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.04.09-13.24.39:856][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2025.04.09-13.24.39:856][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.04.09-13.24.39:856][  0]LogMemory: Process Physical Memory: 287.79 MB used, 298.91 MB peak
+[2025.04.09-13.24.39:856][  0]LogMemory: Process Virtual Memory: 272.30 MB used, 272.30 MB peak
+[2025.04.09-13.24.39:856][  0]LogMemory: Physical Memory: 15575.94 MB used,  16981.45 MB free, 32557.38 MB total
+[2025.04.09-13.24.39:856][  0]LogMemory: Virtual Memory: 29916.66 MB used,  30288.72 MB free, 60205.38 MB total
+[2025.04.09-13.24.39:856][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2025.04.09-13.24.39:861][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.04.09-13.24.39:889][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2025.04.09-13.24.39:890][  0]LogInit: Overriding language with editor language configuration option (en).
+[2025.04.09-13.24.39:890][  0]LogInit: Using OS detected locale (zh-CN).
+[2025.04.09-13.24.40:027][  0]LogInit: Setting process to per monitor DPI aware
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 微软拼音 (TSF IME).
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 微信输入法 (TSF IME).
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem:   - 英语(美国) - (Keyboard).
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem:   - 日语(日本) - 微软输入法 (TSF IME).
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem:   - 中文(简体，中国) - 触控输入更正 (TSF IME).
+[2025.04.09-13.24.40:041][  0]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2025.04.09-13.24.40:053][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.04.09-13.24.40:053][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.04.09-13.24.40:203][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.04.09-13.24.40:203][  0]LogD3D11RHI:     GPU DeviceId: 0x2803 (for the marketing name, search the web for "GPU Device Id")
+[2025.04.09-13.24.40:203][  0]LogWindows: Attached monitors:
+[2025.04.09-13.24.40:203][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2064), device: '\\.\DISPLAY1' [PRIMARY]
+[2025.04.09-13.24.40:203][  0]LogWindows:     resolution: 3840x2160, work area: (3840, 0) -> (7680, 2064), device: '\\.\DISPLAY2'
+[2025.04.09-13.24.40:203][  0]LogWindows: Found 2 attached monitors.
+[2025.04.09-13.24.40:203][  0]LogWindows: EnumDisplayDevices:
+[2025.04.09-13.24.40:203][  0]LogWindows:    0. 'NVIDIA GeForce RTX 4060 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2025.04.09-13.24.40:203][  0]LogWindows:    1. 'NVIDIA GeForce RTX 4060 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2025.04.09-13.24.40:203][  0]LogWindows:    2. 'NVIDIA GeForce RTX 4060 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2025.04.09-13.24.40:204][  0]LogWindows:    3. 'NVIDIA GeForce RTX 4060 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2025.04.09-13.24.40:204][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4060 Ti
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:   Driver Version: 560.94 (internal:32.0.15.6094, unified:560.94)
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:      Driver Date: 8-14-2024
+[2025.04.09-13.24.40:204][  0]LogRHI: Texture pool is 5564 MB (70% of 7949 MB)
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4060 Ti
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     DeviceId    : 2803
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     SubSysId    : 51541462
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     DedicatedVideoMemory : 8335130624 bytes
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     SharedSystemMemory : 17069445120 bytes
+[2025.04.09-13.24.40:204][  0]LogD3D11RHI:     AdapterLuid : 0 59804
+[2025.04.09-13.24.40:251][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.04.09-13.24.40:251][  0]LogD3D11RHI: Async texture creation enabled
+[2025.04.09-13.24.40:251][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2025.04.09-13.24.40:251][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.04.09-13.24.40:252][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x8177414c).
+[2025.04.09-13.24.40:267][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.04.09-13.24.40:292][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.04.09-13.24.40:302][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/TurnkeyReport_0.log" -log="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/TurnkeyLog_0.log" -project="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2.uproject"  -platform=all'
+[2025.04.09-13.24.40:302][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/Software/Epic/UE5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/TurnkeyReport_0.log" -log="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/TurnkeyLog_0.log" -project="D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2.uproject"  -platform=all" ]
+[2025.04.09-13.24.40:332][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2025.04.09-13.24.40:351][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2025.04.09-13.24.40:351][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.04.09-13.24.40:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.04.09-13.24.40:422][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2025.04.09-13.24.40:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2025.04.09-13.24.40:422][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2025.04.09-13.24.40:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.04.09-13.24.40:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.04.09-13.24.40:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.04.09-13.24.40:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2025.04.09-13.24.40:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.04.09-13.24.40:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.04.09-13.24.40:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2025.04.09-13.24.40:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2025.04.09-13.24.40:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2025.04.09-13.24.40:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.04.09-13.24.40:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.04.09-13.24.40:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.04.09-13.24.40:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2025.04.09-13.24.40:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.04.09-13.24.40:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.04.09-13.24.40:449][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2025.04.09-13.24.40:466][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.04.09-13.24.40:479][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2025.04.09-13.24.40:479][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2025.04.09-13.24.40:479][  0]LogTargetPlatformManager:   ADPCM
+[2025.04.09-13.24.40:479][  0]LogTargetPlatformManager:   PCM
+[2025.04.09-13.24.40:483][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2025.04.09-13.24.40:483][  0]LogTargetPlatformManager:   BINKA
+[2025.04.09-13.24.40:483][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2025.04.09-13.24.40:483][  0]LogTargetPlatformManager:   OGG
+[2025.04.09-13.24.40:483][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2025.04.09-13.24.40:483][  0]LogTargetPlatformManager:   OPUS
+[2025.04.09-13.24.40:604][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2025.04.09-13.24.40:613][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2025.04.09-13.24.40:613][  0]LogTargetPlatformManager:   SF_METAL
+[2025.04.09-13.24.40:613][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2025.04.09-13.24.40:613][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2025.04.09-13.24.40:613][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2025.04.09-13.24.40:613][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2025.04.09-13.24.40:614][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager:   VVM_1_0
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2025.04.09-13.24.40:622][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2025.04.09-13.24.40:622][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.04.09-13.24.40:622][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2025.04.09-13.24.40:622][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.04.09-13.24.40:622][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2025.04.09-13.24.40:623][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.04.09-13.24.40:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.04.09-13.24.40:625][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2025.04.09-13.24.40:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.04.09-13.24.40:625][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2025.04.09-13.24.40:639][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2025.04.09-13.24.40:639][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.04.09-13.24.40:639][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2025.04.09-13.24.40:645][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.04.09-13.24.40:645][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.11ms. RandomReadSpeed=381.86MBs, RandomWriteSpeed=507.50MBs. Assigned SpeedClass 'Local'
+[2025.04.09-13.24.40:645][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.04.09-13.24.40:645][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.04.09-13.24.40:645][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2025.04.09-13.24.40:648][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2025.04.09-13.24.40:648][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.04.09-13.24.40:648][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Intermediate/Shaders/WorkingDirectory/16236/).
+[2025.04.09-13.24.40:648][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/89B813FC4881FB7F169D3ABC87927A62/'.
+[2025.04.09-13.24.40:648][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.04.09-13.24.40:648][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 12 workers.
+[2025.04.09-13.24.41:693][  0]LogSlate: Using FreeType 2.10.0
+[2025.04.09-13.24.41:694][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.04.09-13.24.41:719][  0]LogAssetRegistry: FAssetRegistry took 0.0066 seconds to start up
+[2025.04.09-13.24.41:722][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.04.09-13.24.41:832][  0]LogCollisionProfile: Warning: Profile (Pawn) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:832][  0]LogCollisionProfile: Warning: Profile (Spectator) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:832][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (InvisibleWall) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (InvisibleWallDynamic) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (Ragdoll) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (ALS_Character) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogCollisionProfile: Warning: Profile (ALS_Prop) - Custom Channel Name = 'Grabbable' hasn't been found
+[2025.04.09-13.24.41:833][  0]LogSerialization: UsePackageTrailer: 'false'
+[2025.04.09-13.24.41:833][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.04.09-13.24.41:945][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2025.04.09-13.24.41:945][  0]LogDeviceProfileManager: Active device profile: [00000B6C45835780][00000B6C3A760000 50] WindowsEditor
+[2025.04.09-13.24.41:945][  0]LogDeviceProfileManager: Profiles: [00000B6C45835940][00000B6C3A765000 50] Windows, [00000B6C45835780][00000B6C3A760000 50] WindowsEditor, [00000B6C45833480][00000B6C3A6D7800 50] WindowsServer, [00000B6C45835240][00000B6C3F05C800 50] WindowsClient, [00000B6C45832D80][00000B6C27277800 50] IOS, [00000B6C45834980][00000B6C378B2800 50] iPadAir2, [00000B6C45836580][00000B6C45AC0000 50] IPadPro, [00000B6C45836900][00000B6C45AC2800 50] iPadAir3, [00000B6C45831A40][00000B6C45AC7800 50] iPadAir4, [00000B6C45835400][00000B6C45ACA000 50] iPadMini4, [00000B6C45831DC0][00000B6C45ACC800 50] iPadMini5, [00000B6C45834440][00000B6C3A762800 50] iPadMini6, [00000B6C45839300][00000B6C45AE2800 50] iPhone6S, [00000B6C45839680][00000B6C45AE0000 50] iPhone7, [00000B6C45839A00][00000B6C45AE5000 50] iPodTouch7, [00000B6C45832300][00000B6C45AEA000 50] iPhone6SPlus, [00000B6C45838F80][00000B6C45AEC800 50] iPhone7Plus, [00000B6C45834280][00000B6C45AC5000 50] iPhoneSE, [00000B6C45836C80][00000B6C45AE7800 50] iPhone8, [00000B6C45838DC0][00000B6C45AB0000 50] iPhone8Plus, [00000B6C45836740][00000B6C45AB5000 50] iPhoneX, [00000B6C45838C00][00000B6C45AB7800 50] iPhoneXS, [00000B6C45831C00][00000B6C45ABA000 50] iPhoneXSMax, [00000B6C45838A40][00000B6C45ABC800 50] iPhoneXR, [00000B6C458340C0][00000B6C3A67C800 50] iPhone11, [00000B6C45839840][00000B6C45A60000 50] iPhone11Pro, [00000B6C458355C0][00000B6C45A65000 50] iPhone11ProMax, [00000B6C458378C0][00000B6C45A67800 50] iPhoneSE2, [00000B6C45831180][00000B6C45A6A000 50] iPhone12Mini, [00000B6C45837380][00000B6C45A6C800 50] iPhone12, [00000B6C45836AC0][00000B6C45AB2800 50] iPhone12Pro, [00000B6C45833B80][00000B6C45A70000 50] iPhone12ProMax, [00000B6C45834B40][00000B6C45A75000 50] iPhone13Mini, [00000B6C45838880][00000B6C45A77800 50] iPhone13, [00000B6C45835CC0][00000B6C45A7A000 50] iPhone13Pro, [00000B6C45837E00][00000B6C45A7C800 50] iPhone13ProMax, [00000B6C458332C0][00000B6C45A62800 50] iPadPro105, [00000B6C45834EC0][00000B6C45AF0000 50] iPadPro129, [00000B6C458394C0][00000B6C45AF5000 50] iPadPro97, [00000B6C45835E80][00000B6C45AF7800 50] iPadPro2_129, [00000B6C45837C40][00000B6C45AFA000 50] iPad5, [00000B6C458324C0][00000B6C45AFC800 50] iPad6, [00000B6C45831F80][00000B6C45A72800 50] iPad7, [00000B6C45838340][00000B6C45B00000 50] iPad8, [00000B6C45835080][00000B6C45B05000 50] iPad9, [00000B6C458386C0][00000B6C45B07800 50] iPadPro11, [00000B6C45830FC0][00000B6C45B0A000 50] iPadPro2_11, [00000B6C45831340][00000B6C45B0C800 50] iPadPro3_11, [00000B6C45833100][00000B6C45AF2800 50] iPadPro3_129, [00000B6C45837FC0][00000B6C45B20000 50] iPadPro4_129, [00000B6C458363C0][00000B6C45B25000 50] iPadPro5_129, [00000B6C45836040][00000B6C45B27800 50] AppleTV, [00000B6C45833D40][00000B6C45B2A000 50] AppleTV4K, [00000B6C45837A80][00000B6C45B2C800 50] TVOS, [00000B6C4583B7C0][00000B6C45B60000 50] Mac, [00000B6C4583BB40][00000B6C45B62800 50] MacEditor, [00000B6C45837540][00000B6C45B67800 50] MacClient, [00000B6C4583B280][00000B6C45B6A000 50] MacServer, [00000B6C4583BEC0][00000B6C45B02800 50] Linux, [00000B6C4583C240][00000B6C45B22800 50] LinuxEditor, [00000B6C45833640][00000B6C45B6C800 50] LinuxArm64Editor, [00000B6C4583B980][00000B6C45B30000 50] LinuxArm64, [00000B6C45832A00][00000B6C45B35000 50] LinuxClient, [00000B6C458347C0][00000B6C45B37800 50] LinuxArm64Client, [00000B6C45839F40][00000B6C45B3A000 50] LinuxServer, [00000B6C458339C0][00000B6C45B3C800 50] LinuxArm64Server, [00000B6C45832BC0][00000B6C45B65000 50] Android, [00000B6C45836E40][00000B6C45B40000 50] Android_Preview_OpenGL, [00000B6C45838500][00000B6C45B45000 50] Android_Preview_Vulkan, [00000B6C4583C5C0][00000B6C45B47800 50] Android_Low, [00000B6C4583C940][00000B6C45B4A000 50] Android_Mid, [00000B6C45834600][00000B6C45B4C800 50] Android_High, [00000B6C4583AD40][00000B6C45B32800 50] Android_Default, [00000B6C4583AB80][00000B6C45B50000 50] Android_Adreno4xx, [00000B6C45839140][00000B6C45B55000 50] Android_Adreno5xx_Low, [00000B6C45833800][00000B6C45B57800 50] Android_Adreno5xx, [00000B6C4583A480][00000B6C45B5A000 50] Android_Adreno6xx, [00000B6C4583A640][00000B6C45B5C800 50] Android_Adreno6xx_Vulkan, [00000B6C45832140][00000B6C45B42800 50] Android_Adreno7xx, [00000B6C4583B600][00000B6C45B70000 50] Android_Adreno7xx_Vulkan, [00000B6C4583C780][00000B6C45B75000 50] Android_Mali_T6xx, [00000B6C45832680][00000B6C45B77800 50] Android_Mali_T7xx, [00000B6C4583A100][00000B6C45B7A000 50] Android_Mali_T8xx, [00000B6C4583B440][00000B6C45B7C800 50] Android_Mali_G71, [00000B6C45837000][00000B6C45B52800 50] Android_Mali_G72, [00000B6C4583AF00][00000B6C45B80000 50] Android_Mali_G72_Vulkan, [00000B6C45832840][00000B6C45B85000 50] Android_Mali_G76, [00000B6C4583CCC0][00000B6C45B87800 50] Android_Mali_G76_Vulkan, [00000B6C4583A800][00000B6C45B8A000 50] Android_Mali_G77, [00000B6C4583C400][00000B6C45B8C800 50] Android_Mali_G77_Vulkan, [00000B6C4583CE80][00000B6C45B72800 50] Android_Mali_G78, [00000B6C45836200][00000B6C45B90000 50] Android_Mali_G78_Vulkan, [00000B6C45839BC0][00000B6C45B95000 50] Android_Mali_G710, [00000B6C4583D040][00000B6C45B97800 50] Android_Mali_G710_Vulkan, [00000B6C458371C0][00000B6C45B9A000 50] Android_Xclipse_920, [00000B6C45832F40][00000B6C45B9C800 50] Android_Xclipse_920_Vulkan, [00000B6C4583DC80][00000B6C45B82800 50] Android_Vulkan_SM5, [00000B6C4583C080][00000B6C45BA0000 50] Android_PowerVR_G6xxx, [00000B6C4583D900][00000B6C45BA5000 50] Android_PowerVR_GT7xxx, [00000B6C4583DE40][00000B6C45BA7800 50] Android_PowerVR_GE8xxx, [00000B6C4583D200][00000B6C45BAA000 50] Android_PowerVR_GM9xxx, [00000B6C4583A2C0][00000B6C45BAC800 50] Android_PowerVR_GM9xxx_Vulkan, [00000B6C4583E000][00000B6C45B92800 50] Android_TegraK1, [00000B6C45834D00][00000B6C45BB0000 50] Android_Unknown_Vulkan, [00000B6C4583EC40][00000B6C45BB5000 50] Oculus_Quest, [00000B6C4583DAC0][00000B6C45BB7800 50] Oculus_Quest2, [00000B6C4583E8C0][00000B6C45BBA000 50] HoloLens, 
+[2025.04.09-13.24.41:945][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2025.04.09-13.24.41:952][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.04.09-13.24.42:130][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.04.09-13.24.42:130][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.04.09-13.24.42:130][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.04.09-13.24.42:130][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.04.09-13.24.42:130][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.04.09-13.24.42:144][  0]LogNetVersion: AdvancedLocomotionSystemV2 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3712072212)
+[2025.04.09-13.24.42:220][  0]LogSlate: Border
+[2025.04.09-13.24.42:220][  0]LogSlate: BreadcrumbButton
+[2025.04.09-13.24.42:220][  0]LogSlate: Default
+[2025.04.09-13.24.42:220][  0]LogSlate: Icons.Save
+[2025.04.09-13.24.42:220][  0]LogSlate: Icons.Toolbar.Settings
+[2025.04.09-13.24.42:220][  0]LogSlate: ListView
+[2025.04.09-13.24.42:220][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.04.09-13.24.42:220][  0]LogSlate: SoftwareCursor_Grab
+[2025.04.09-13.24.42:220][  0]LogSlate: TableView.DarkRow
+[2025.04.09-13.24.42:220][  0]LogSlate: TableView.Row
+[2025.04.09-13.24.42:220][  0]LogSlate: TreeView
+[2025.04.09-13.24.42:331][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.42:347][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.42:347][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.42:417][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2025.04.09-13.24.42:417][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2025.04.09-13.24.42:417][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.04.09-13.24.42:804][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3337EC25414E682CAEDCD98C8D99C33A | Instance: C3DD2D124347650A6F51FD88562287B7 (WIN-ODC50DHVV4T-16236).
+[2025.04.09-13.24.42:911][  0]LogPython: Using Python 3.9.7
+[2025.04.09-13.24.43:642][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.04.09-13.24.43:650][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.04.09-13.24.44:058][  0]LogOpenImageDenoise: OIDN starting up
+[2025.04.09-13.24.44:273][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.04.09-13.24.44:316][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.09-13.24.44:316][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.09-13.24.44:421][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.44:427][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.44:456][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.44:503][  0]LogUProjectInfo: Found projects:
+[2025.04.09-13.24.44:597][  0]LogCollectionManager: Loaded 0 collections in 0.000427 seconds
+[2025.04.09-13.24.44:678][  0]LogFileCache: Scanning file cache for directory 'D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Collections/' took 0.00s
+[2025.04.09-13.24.44:678][  0]LogFileCache: Scanning file cache for directory 'D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/Developers/Administrator/Collections/' took 0.00s
+[2025.04.09-13.24.44:678][  0]LogFileCache: Scanning file cache for directory 'D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/Collections/' took 0.00s
+[2025.04.09-13.24.44:678][  0]LogEngine: Initializing Engine...
+[2025.04.09-13.24.44:687][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.04.09-13.24.44:855][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.04.09-13.24.44:856][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.09-13.24.44:869][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-13.24.44:893][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.04.09-13.24.44:894][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.04.09-13.24.44:916][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.09-13.24.44:917][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-13.24.44:917][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-13.24.44:926][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-13.24.44:945][  0]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (3- High Definition Audio Device)
+[2025.04.09-13.24.44:946][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-13.24.44:947][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-13.24.44:947][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-13.24.44:947][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.04.09-13.24.44:947][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.09-13.24.44:948][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.09-13.24.44:948][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.04.09-13.24.44:948][  0]LogInit: FAudioDevice initialized.
+[2025.04.09-13.24.44:948][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.09-13.24.44:948][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.04.09-13.24.44:948][  0]LogInit: Texture streaming: Enabled
+[2025.04.09-13.24.44:980][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2025.04.09-13.24.44:988][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.04.09-13.24.45:009][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.04.09-13.24.45:017][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.04.09-13.24.45:017][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.04.09-13.24.45:745][  0]LogLiveCoding: Display: First instance in process group "UE_AdvancedLocomotionSystemV2_0xb4d8e147", spawning console
+[2025.04.09-13.24.45:745][  0]LogLiveCoding: Display: Waiting for server
+[2025.04.09-13.24.45:745][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.04.09-13.24.45:758][  0]LogInit: Transaction tracking system initialized
+[2025.04.09-13.24.45:821][  0]BlueprintLog: New page: Editor Load
+[2025.04.09-13.24.46:033][  0]LocalizationService: Localization service is disabled
+[2025.04.09-13.24.46:075][  0]TimingProfiler: Initialize
+[2025.04.09-13.24.46:075][  0]TimingProfiler: OnSessionChanged
+[2025.04.09-13.24.46:075][  0]LoadingProfiler: Initialize
+[2025.04.09-13.24.46:075][  0]LoadingProfiler: OnSessionChanged
+[2025.04.09-13.24.46:075][  0]NetworkingProfiler: Initialize
+[2025.04.09-13.24.46:075][  0]NetworkingProfiler: OnSessionChanged
+[2025.04.09-13.24.46:075][  0]MemoryProfiler: Initialize
+[2025.04.09-13.24.46:075][  0]MemoryProfiler: OnSessionChanged
+[2025.04.09-13.24.46:490][  0]LogFileCache: Scanning file cache for directory 'D:/UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/' took 0.00s
+[2025.04.09-13.24.46:490][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.04.09-13.24.46:752][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.04.09-13.24.46:753][  0]SourceControl: Source control is disabled
+[2025.04.09-13.24.46:753][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.233
+[2025.04.09-13.24.46:753][  0]Cmd: MAP LOAD FILE="../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.04.09-13.24.46:754][  0]LightingResults: New page: Lighting Build
+[2025.04.09-13.24.46:759][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-13.24.46:759][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-13.24.46:759][  0]MapCheck: New page: Map Check
+[2025.04.09-13.24.46:759][  0]LightingResults: New page: Lighting Build
+[2025.04.09-13.24.46:762][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.09-13.24.46:764][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.04.09-13.24.46:995][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ALS_DemoLevel'.
+[2025.04.09-13.24.46:995][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.09-13.24.46:995][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-13.24.46:996][  0]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2025.04.09-13.24.47:005][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.09-13.24.47:013][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.04.09-13.24.47:014][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.09-13.24.47:014][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2025.04.09-13.24.47:014][  0]LogFileHelpers: Loading map 'ALS_DemoLevel' took 0.260
+[2025.04.09-13.24.47:023][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.503
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: ================================================
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.09-13.24.47:023][  0]LogShaderCompilers: Display: ================================================
+[2025.04.09-13.24.47:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.24.47:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.24.47:143][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.24.47:146][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.24.47:162][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:162][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:163][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:163][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:164][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:164][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:165][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:165][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:166][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:166][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:167][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:167][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:168][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:168][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:170][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:170][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:171][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:171][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:172][  0]LogPakFile: Display: Mounted Pak file 'D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.04.09-13.24.47:172][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2025.04.09-13.24.47:172][  0]LogFeaturePack: Error: Error in Feature pack D:/Software/Epic/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2025.04.09-13.24.47:350][  0]LogSlate: Took 0.000660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.09-13.24.47:352][  0]LogSlate: Took 0.000527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.09-13.24.47:354][  0]LogSlate: Took 0.000549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.04.09-13.24.47:355][  0]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.09-13.24.47:366][  0]LogViewport: Scene viewport resized to 3209x899, mode Windowed.
+[2025.04.09-13.24.47:435][  0]LogStall: Startup...
+[2025.04.09-13.24.47:437][  0]LogStall: Startup complete.
+[2025.04.09-13.24.47:468][  0]LogLoad: (Engine Initialization) Total time: 8.95 seconds
+[2025.04.09-13.24.47:468][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.04.09-13.24.47:498][  0]LogAssetRegistry: Asset discovery search completed in 5.7805 seconds
+[2025.04.09-13.24.47:504][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2025.04.09-13.24.47:519][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.04.09-13.24.48:156][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.
+[2025.04.09-13.24.48:163][  2]LogSlate: Took 0.000597 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.09-13.26.41:026][340]LogDerivedDataCache: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.175 and deleted 0 file(s) with total size 0 MiB.
+[2025.04.09-13.29.37:166][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.09-13.29.37:170][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-13.29.37:170][  4]PIE: New page: PIE session: ALS_DemoLevel (2025年4月10日 上午5:29:37)
+[2025.04.09-13.29.37:173][  4]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.04.09-13.29.37:173][  4]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.04.09-13.29.37:173][  4]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2025.04.09-13.29.37:187][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012716s)
+[2025.04.09-13.29.37:187][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (0.012778s)
+[2025.04.09-13.29.37:187][  4]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.09-13.29.37:187][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-13.29.37:187][  4]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2025.04.09-13.29.37:187][  4]LogPlayLevel: PIE: World Init took: (0.000619s)
+[2025.04.09-13.29.37:192][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.09-13.29.37:192][  4]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.09-13.29.37:192][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.09-13.29.37:192][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-13.29.37:193][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-13.29.37:193][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-13.29.37:193][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-13.29.37:194][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-13.29.37:207][  4]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (3- High Definition Audio Device)
+[2025.04.09-13.29.37:207][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-13.29.37:207][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-13.29.37:207][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-13.29.37:209][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.04.09-13.29.37:209][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.04.09-13.29.37:210][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.04.09-13.29.37:210][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.04.09-13.29.37:210][  4]LogInit: FAudioDevice initialized.
+[2025.04.09-13.29.37:210][  4]LogAudio: Display: Audio Device (ID: 2) registered with world 'ALS_DemoLevel'.
+[2025.04.09-13.29.37:216][  4]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2025.04.09-13.29.37:218][  4]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2025.04.09-21.29.37
+[2025.04.09-13.29.37:219][  4]LogWorld: Bringing up level for play took: 0.002887
+[2025.04.09-13.29.37:220][  4]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.04.09-13.29.37:232][  4]PIE: Server logged in
+[2025.04.09-13.29.37:233][  4]PIE: Play in editor total start time 0.063 seconds.
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0000 [can pipeline])
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.38.37) port 443 (#0))
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 8 (Closing connection 0)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: 00000B6C4C86F500: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.29.45:257][959]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.30.11:690][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.30.11:690][126]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2025.04.09-13.30.11:691][126]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-13.30.11:691][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-13.30.11:703][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-13.30.11:704][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-13.30.11:709][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.30.11:709][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.09-13.30.11:710][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.04.09-13.30.11:714][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.04.09-13.30.11:769][128]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.04.09-13.30.37:522][736]LogViewport: Scene viewport resized to 2152x596, mode Windowed.
+[2025.04.09-13.30.38:624][808]LogViewport: Scene viewport resized to 3209x899, mode Windowed.
+[2025.04.09-13.30.40:971][ 53]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP
+[2025.04.09-13.30.40:971][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-13.30.41:012][ 53]LogWindowsTextInputMethodSystem: Activated input method: 中文(简体，中国) - 微软拼音 (TSF IME).
+[2025.04.09-13.30.41:785][ 53]LogSlate: Took 0.000684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.09-13.30.41:828][ 54]LogSlate: Took 0.005556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.04.09-13.30.41:829][ 54]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0db0 [can pipeline])
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.16.146.203) port 443 (#1))
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 8 (Closing connection 1)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: 00000B6C780E3700: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.33.45:781][ 55]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e05d0 [can pipeline])
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 1 (Re-using existing connection! (#2) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.217.66.255) port 443 (#2))
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 8 (Closing connection 2)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: 00000B6C7A934B00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.36.45:477][781]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0390 [can pipeline])
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.23.152.200) port 443 (#3))
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 8 (Closing connection 3)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: 00000B6C7D3FD200: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.39.45:570][ 94]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.40.07:758][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.04.09-13.40.07:759][159]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.020
+[2025.04.09-13.40.07:760][159]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-13.40.07:809][159]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP_C]
+[2025.04.09-13.40.07:826][159]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-13.40.07:826][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-13.40.07:834][159]LogPackageLocalizationCache: Processed 26 localized package path(s) for 1 prioritized culture(s) in 0.003700 seconds
+[2025.04.09-13.40.07:860][159]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto1
+[2025.04.09-13.40.07:860][159]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto1873CD63349084D0220B668A58EFB64A5.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto1.uasset'
+[2025.04.09-13.40.07:861][159]LogFileHelpers: Auto-saving content packages took 0.102
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0d80 [can pipeline])
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.233.49.169) port 443 (#4))
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 8 (Closing connection 4)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: 00000B6C79B40A00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.42.45:449][457]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0990 [can pipeline])
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.115.253) port 443 (#5))
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 8 (Closing connection 5)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: 00000B6C7865BE00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.45.45:265][953]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.48.32:388][531]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-13.48.32:440][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0660 [can pipeline])
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.227.186.253) port 443 (#6))
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 8 (Closing connection 6)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: 00000B6C77C67D00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.48.45:413][543]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.49.59:187][200]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18446731514290430136
+[2025.04.09-13.49.59:187][200]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2025.04.09-13.50.07:975][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.09-13.50.08:008][212]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto2
+[2025.04.09-13.50.08:009][212]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto2B5AAF959434D519989EA71987E478FE8.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto2.umap'
+[2025.04.09-13.50.08:010][212]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.052
+[2025.04.09-13.50.08:010][212]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2025.04.09-13.50.08:010][212]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-13.50.08:026][212]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-13.50.08:026][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-13.50.08:042][212]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto2
+[2025.04.09-13.50.08:043][212]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto2C86801AF4B2C9C8390A424AE5B16597A.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto2.uasset'
+[2025.04.09-13.50.08:043][212]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0450 [can pipeline])
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 1 (Re-using existing connection! (#7) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.217.25.241) port 443 (#7))
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 8 (Closing connection 7)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: 00000B6C779F6900: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.51.45:901][541]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.51.58:649][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.09-13.51.58:655][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.09-13.51.58:655][578]PIE: New page: PIE session: ALS_DemoLevel (2025年4月10日 上午5:51:58)
+[2025.04.09-13.51.58:655][578]LogPlayLevel: Creating play world package: /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2025.04.09-13.51.58:669][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013695s)
+[2025.04.09-13.51.58:669][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel to /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel (0.013765s)
+[2025.04.09-13.51.58:669][578]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2025.04.09-13.51.58:670][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.09-13.51.58:670][578]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2025.04.09-13.51.58:670][578]LogPlayLevel: PIE: World Init took: (0.000658s)
+[2025.04.09-13.51.58:691][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.09-13.51.58:692][578]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.04.09-13.51.58:692][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.09-13.51.58:692][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.09-13.51.58:692][578]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.09-13.51.58:692][578]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.09-13.51.58:692][578]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.09-13.51.58:694][578]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.09-13.51.58:710][578]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (3- High Definition Audio Device)
+[2025.04.09-13.51.58:710][578]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.09-13.51.58:710][578]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.09-13.51.58:710][578]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.09-13.51.58:712][578]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.09-13.51.58:712][578]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.09-13.51.58:713][578]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.09-13.51.58:713][578]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.09-13.51.58:713][578]LogInit: FAudioDevice initialized.
+[2025.04.09-13.51.58:713][578]LogAudio: Display: Audio Device (ID: 3) registered with world 'ALS_DemoLevel'.
+[2025.04.09-13.51.58:724][578]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2025.04.09-13.51.58:727][578]LogWorld: Bringing World /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel.ALS_DemoLevel up for play (max tick rate 0) at 2025.04.09-21.51.58
+[2025.04.09-13.51.58:727][578]LogWorld: Bringing up level for play took: 0.002729
+[2025.04.09-13.51.58:729][578]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.04.09-13.51.58:730][578]PIE: Server logged in
+[2025.04.09-13.51.58:731][578]PIE: Play in editor total start time 0.075 seconds.
+[2025.04.09-13.52.08:980][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.52.08:980][786]LogWorld: BeginTearingDown for /Game/AdvancedLocomotionV4/Levels/UEDPIE_0_ALS_DemoLevel
+[2025.04.09-13.52.08:980][786]LogWorld: UWorld::CleanupWorld for ALS_DemoLevel, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-13.52.08:980][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-13.52.08:992][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.09-13.52.08:994][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-13.52.09:007][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.09-13.52.09:008][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.09-13.52.09:009][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.09-13.52.09:013][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.09-13.52.09:068][788]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.04.09-13.53.14:068][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.09-13.53.17:278][165]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.09-13.53.17:298][165]LogUObjectGlobals: Force Deleting 13 Package(s):
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_RotationMode.ALS_RotationMode
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/AnimFeatureExample.AnimFeatureExample
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/FootstepType.FootstepType
+	Asset Type: UserDefinedEnum
+	Asset Name: /Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState
+	Asset Type: UserDefinedEnum
+[2025.04.09-13.53.17:620][165]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2025.04.09-13.53.18:904][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.09-13.53.18:917][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.09-13.53.18:932][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.09-13.53.32:288][187]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-13.53.32:293][187]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-13.53.32:308][189]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-13.53.40:237][137]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Gait
+[2025.04.09-13.53.40:239][137]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-13.54.11:268][689]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/Gait.Gait
+[2025.04.09-13.55.12:380][108]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/Gait
+[2025.04.09-13.55.12:380][108]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/GaitBBA00EF0452F913C09AA56ACE805BF9E.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/Gait.uasset'
+[2025.04.09-13.55.12:392][108]AssetCheck: New page: Asset Save: Gait
+[2025.04.09-13.55.12:392][108]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/Gait.Gait
+[2025.04.09-13.55.25:672][398]LogContentBrowser: Attempting asset rename: Gait -> ALS_Gait
+[2025.04.09-13.55.25:692][398]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait' ref from Metadata '/Game/AdvancedLocomotionV4/Data/Enums/Gait.PackageMetaData'
+[2025.04.09-13.55.25:742][398]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait
+[2025.04.09-13.55.25:742][398]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_Gait5054C1C240FF765A2565CB831C0793FE.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_Gait.uasset'
+[2025.04.09-13.55.25:868][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.09-13.55.25:881][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.09-13.55.25:895][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.09-13.55.25:898][398]AssetCheck: New page: Asset Save: ALS_Gait
+[2025.04.09-13.55.25:898][398]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_Gait.ALS_Gait
+[2025.04.09-13.55.37:540][106]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-13.55.37:543][106]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-13.55.37:550][107]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0e10 [can pipeline])
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.217.25.241) port 443 (#8))
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 8 (Closing connection 8)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: 00000B6C797FD700: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.55.45:276][ 35]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.55.45:715][ 87]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_MoveAction
+[2025.04.09-13.55.45:715][ 87]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-13.55.49:559][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-13.55.49:559][519]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-13.55.54:997][164]LogContentBrowser: Attempting asset rename: ALS_MoveAction -> ALS_MovementAction
+[2025.04.09-13.55.55:008][164]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction' ref from Metadata '/Game/AdvancedLocomotionV4/Data/Enums/ALS_MoveAction.PackageMetaData'
+[2025.04.09-13.55.55:041][164]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction
+[2025.04.09-13.55.55:041][164]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_MovementActionEF55ABA84B5CE6AE7B20D99F5C5E6497.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.uasset'
+[2025.04.09-13.55.55:118][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.09-13.55.55:138][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.04.09-13.55.55:152][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.04.09-13.55.55:155][164]AssetCheck: New page: Asset Save: ALS_MovementAction
+[2025.04.09-13.55.55:155][164]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction
+[2025.04.09-13.55.58:990][493]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction
+[2025.04.09-13.57.45:845][423]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction
+[2025.04.09-13.57.45:845][423]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_MovementAction347ADEC54C11C50D8D9660BC52349D54.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.uasset'
+[2025.04.09-13.57.45:853][423]AssetCheck: New page: Asset Save: ALS_MovementAction
+[2025.04.09-13.57.45:853][423]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementAction.ALS_MovementAction
+[2025.04.09-13.58.00:217][920]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-13.58.00:221][920]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-13.58.00:226][921]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-13.58.11:941][324]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_MovementState
+[2025.04.09-13.58.11:941][324]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-13.58.17:657][887]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: request failed, libcurl error: 0 (No error)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0210 [can pipeline])
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.27.144.21) port 443 (#9))
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 8 (Closing connection 9)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: 00000B6C83814600: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-13.58.45:267][148]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-13.59.33:594][947]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState
+[2025.04.09-13.59.33:594][947]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_MovementStateCD1BEC6F455D85539B125BADE37CA65E.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.uasset'
+[2025.04.09-13.59.33:601][947]AssetCheck: New page: Asset Save: ALS_MovementState
+[2025.04.09-13.59.33:601][947]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState
+[2025.04.09-13.59.42:244][965]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState
+[2025.04.09-13.59.42:244][965]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_MovementStateE6D43A934324AE8BDBDD468E0C67D384.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.uasset'
+[2025.04.09-13.59.42:251][965]AssetCheck: New page: Asset Save: ALS_MovementState
+[2025.04.09-13.59.42:251][965]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_MovementState.ALS_MovementState
+[2025.04.09-13.59.53:202][171]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-13.59.53:207][171]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-13.59.53:213][172]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.00.07:852][929]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_OverlayState
+[2025.04.09-14.00.07:853][929]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.00.10:393][216]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState
+[2025.04.09-14.00.23:427][738]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState
+[2025.04.09-14.00.23:427][738]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_OverlayStateDCD1E08E4DAF3B1F1382768BE73895AB.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.uasset'
+[2025.04.09-14.00.23:436][738]AssetCheck: New page: Asset Save: ALS_OverlayState
+[2025.04.09-14.00.23:436][738]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_OverlayState.ALS_OverlayState
+[2025.04.09-14.00.31:547][621]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.00.31:552][621]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.00.31:557][622]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.00.45:517][295]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_RotaitonMode
+[2025.04.09-14.00.45:517][295]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.00.48:727][524]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_RotaitonMode.ALS_RotaitonMode
+[2025.04.09-14.01.40:596][365]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_RotaitonMode
+[2025.04.09-14.01.40:596][365]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_RotaitonMode2D78B5D34EBC52B7F22A22A521793EA7.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_RotaitonMode.uasset'
+[2025.04.09-14.01.40:610][365]AssetCheck: New page: Asset Save: ALS_RotaitonMode
+[2025.04.09-14.01.40:610][365]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_RotaitonMode.ALS_RotaitonMode
+[2025.04.09-14.02.10:642][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.09-14.02.10:674][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto3
+[2025.04.09-14.02.10:674][ 53]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto3C7C56A144BE550757960F3996ED8B7A5.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto3.umap'
+[2025.04.09-14.02.10:675][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.059
+[2025.04.09-14.02.10:675][ 53]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2025.04.09-14.02.10:676][ 53]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-14.02.10:700][ 53]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-14.02.10:700][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-14.02.10:715][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto3
+[2025.04.09-14.02.10:715][ 53]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto3F35BF7874F826ECC943C6A816CE8462F.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto3.uasset'
+[2025.04.09-14.02.10:716][ 53]LogFileHelpers: Auto-saving content packages took 0.041
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: request failed, libcurl error: 0 (No error)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0720 [can pipeline])
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.60.156) port 443 (#10))
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 8 (Closing connection 10)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: 00000B6C8841BE00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-14.02.45:429][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-14.03.00:251][944]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.03.00:256][944]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.03.00:261][945]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.03.17:868][ 55]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> NewUserDefinedEnum
+[2025.04.09-14.03.17:868][ 55]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.03.19:644][240]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.19:644][240]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.20:241][299]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.20:241][299]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.20:759][342]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.20:759][342]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.24:977][651]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.24:977][651]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.25:240][678]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.25:240][678]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.25:476][697]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.25:476][697]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.03.43:140][803]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_Stance
+[2025.04.09-14.03.43:150][803]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance' ref from Metadata '/Game/AdvancedLocomotionV4/Data/Enums/NewUserDefinedEnum.PackageMetaData'
+[2025.04.09-14.03.43:153][803]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.04.09-14.03.43:154][803]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance
+[2025.04.09-14.03.43:154][803]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_Stance9B48FD414D982CCB1CBB5A844328EA9D.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_Stance.uasset'
+[2025.04.09-14.03.43:221][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.09-14.03.43:235][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.04.09-14.03.43:248][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.04.09-14.03.43:251][803]AssetCheck: New page: Asset Save: ALS_Stance
+[2025.04.09-14.03.43:251][803]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance
+[2025.04.09-14.03.47:711][ 83]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance
+[2025.04.09-14.04.10:161][572]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance
+[2025.04.09-14.04.10:161][572]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_StanceEB6FBA344D2C1F9B90CBB0B831E98CAC.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_Stance.uasset'
+[2025.04.09-14.04.10:167][572]AssetCheck: New page: Asset Save: ALS_Stance
+[2025.04.09-14.04.10:167][572]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_Stance.ALS_Stance
+[2025.04.09-14.04.23:028][812]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.04.23:033][812]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.04.23:039][813]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.04.31:402][817]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_ViewMode
+[2025.04.09-14.04.31:402][817]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.04.39:431][174]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: request failed, libcurl error: 0 (No error)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0a20 [can pipeline])
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.73.130) port 443 (#11))
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 8 (Closing connection 11)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: 00000B6C892BA000: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-14.05.45:453][ 42]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-14.05.50:329][151]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode
+[2025.04.09-14.05.50:329][151]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_ViewMode196EE44A484528FF7744E4B9197B8AD3.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.uasset'
+[2025.04.09-14.05.50:341][151]AssetCheck: New page: Asset Save: ALS_ViewMode
+[2025.04.09-14.05.50:341][151]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_ViewMode.ALS_ViewMode
+[2025.04.09-14.05.52:098][360]LogSlate: Window 'ALS_ViewMode' being destroyed
+[2025.04.09-14.05.52:104][360]LogSlate: Window 'ALS_ViewMode' being destroyed
+[2025.04.09-14.05.52:144][360]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.04.09-14.05.52:144][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.09-14.06.30:235][184]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.06.30:240][184]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.06.30:246][185]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.06.47:420][246]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> ALS_AnimFeatureExample
+[2025.04.09-14.06.47:421][246]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.07.00:806][432]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_AnimFeatureExample.ALS_AnimFeatureExample
+[2025.04.09-14.08.13:913][980]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/ALS_AnimFeatureExample
+[2025.04.09-14.08.13:913][980]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_AnimFeatureExampleA5F8A8334435BB97E40D17B30B3B4594.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/ALS_AnimFeatureExample.uasset'
+[2025.04.09-14.08.13:924][980]AssetCheck: New page: Asset Save: ALS_AnimFeatureExample
+[2025.04.09-14.08.13:924][980]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/ALS_AnimFeatureExample.ALS_AnimFeatureExample
+[2025.04.09-14.08.18:486][ 18]LogSlate: Window 'ALS_AnimFeatureExample' being destroyed
+[2025.04.09-14.08.18:492][ 18]LogSlate: Window 'ALS_AnimFeatureExample' being destroyed
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: request failed, libcurl error: 0 (No error)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0480 [can pipeline])
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 1 (Re-using existing connection! (#12) with host datarouter.ol.epicgames.com)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.73.130) port 443 (#12))
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 8 (Closing connection 12)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-14.09.45:408][360]LogHttp: Warning: 00000B6C86980A00: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-14.09.45:409][360]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-14.12.11:679][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.09-14.12.11:712][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto4
+[2025.04.09-14.12.11:713][242]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto4367E4B5C45541908D54390A43C82F892.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto4.umap'
+[2025.04.09-14.12.11:714][242]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.059
+[2025.04.09-14.12.11:714][242]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2025.04.09-14.12.11:715][242]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-14.12.11:723][242]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-14.12.11:723][242]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-14.12.11:739][242]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto4
+[2025.04.09-14.12.11:739][242]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto4D8488E9C4904E7391312DB80624B5694.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto4.uasset'
+[2025.04.09-14.12.11:740][242]LogFileHelpers: Auto-saving content packages took 0.025
+[2025.04.09-14.12.24:613][815]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.12.24:613][815]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.12.29:070][341]LogContentBrowser: Attempting asset rename: ALS_AnimFeatureExample -> AnimFeatureExample
+[2025.04.09-14.12.29:081][341]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Data/Enums/AnimFeatureExample.AnimFeatureExample' ref from Metadata '/Game/AdvancedLocomotionV4/Data/Enums/ALS_AnimFeatureExample.PackageMetaData'
+[2025.04.09-14.12.29:135][341]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/AnimFeatureExample
+[2025.04.09-14.12.29:135][341]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/AnimFeatureExampleE54065D64A49E9BD3A321EB7A0A67CD5.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/AnimFeatureExample.uasset'
+[2025.04.09-14.12.29:251][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.04.09-14.12.29:264][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.04.09-14.12.29:277][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.04.09-14.12.29:279][341]AssetCheck: New page: Asset Save: AnimFeatureExample
+[2025.04.09-14.12.29:279][341]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/AnimFeatureExample.AnimFeatureExample
+[2025.04.09-14.12.34:621][927]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.04.09-14.12.36:261][927]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.04.09-14.12.41:569][470]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.12.41:573][470]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.12.41:579][471]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.12.57:971][434]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> FootstepType
+[2025.04.09-14.12.57:972][434]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.13.18:037][774]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.13.18:041][774]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.13.18:047][775]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.13.32:632][523]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> GroundedEntry
+[2025.04.09-14.13.32:632][523]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.13.38:312][123]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.13.38:312][123]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: request failed, libcurl error: 0 (No error)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xb6c330e0660 [can pipeline])
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.227.186.253) port 443 (#13))
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 5 (We are completely uploaded and fine)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 6 (Connection died, retrying a fresh connect)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 7 (necessary data rewind wasn't possible)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 8 (Closing connection 13)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 9 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: 00000B6C7DA87300: libcurl info message cache 10 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2025.04.09-14.13.45:557][947]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAAFB1A00-4FD2-11FE-00EF-5499E5FDAAA7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=bada547e4e380a481e19999a3336b079%7Ca774008a657d4db2adbd72cba55e7592%7Cc0220749-29d7-48a7-9ae0-232c5d706471&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2025.04.09-14.13.47:294][952]LogContentBrowser: Attempting asset rename: GroundedEntry -> GroundedEntry
+[2025.04.09-14.13.50:464][256]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.13.50:464][256]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2025.04.09-14.13.56:755][  5]LogContentBrowser: Attempting asset rename: GroundedEntry -> GroundedEntryState
+[2025.04.09-14.13.56:765][  5]LogMetaData: Removing '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState' ref from Metadata '/Game/AdvancedLocomotionV4/Data/Enums/GroundedEntry.PackageMetaData'
+[2025.04.09-14.13.56:817][  5]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState
+[2025.04.09-14.13.56:817][  5]LogSavePackage: Moving '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Saved/GroundedEntryState24418D4740580CE6EE29E995874B9BFC.tmp' to '../../../../../../../UE/AdvancedLocomotionSystemV2/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.uasset'
+[2025.04.09-14.13.56:889][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.09-14.13.56:902][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.04.09-14.13.56:913][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.04.09-14.13.56:916][  5]AssetCheck: New page: Asset Save: GroundedEntryState
+[2025.04.09-14.13.56:916][  5]LogContentValidation: Display: Validating UserDefinedEnum /Game/AdvancedLocomotionV4/Data/Enums/GroundedEntryState.GroundedEntryState
+[2025.04.09-14.14.02:876][653]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.14.02:881][653]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.14.02:886][654]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.14.14:417][ 38]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> HipsDirection
+[2025.04.09-14.14.14:417][ 38]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.14.25:351][238]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.14.25:355][238]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.14.25:361][239]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.14.32:392][ 83]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> MantleType
+[2025.04.09-14.14.32:393][ 83]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.14.40:446][889]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2025.04.09-14.14.40:451][889]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2025.04.09-14.14.40:457][890]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2025.04.09-14.14.49:531][979]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> MovementDirection
+[2025.04.09-14.14.49:531][979]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2025.04.09-14.17.18:431][540]LogViewport: Scene viewport resized to 3209x894, mode Windowed.
+[2025.04.09-14.17.18:461][541]LogViewport: Scene viewport resized to 3209x869, mode Windowed.
+[2025.04.09-14.17.18:708][542]LogViewport: Scene viewport resized to 3209x643, mode Windowed.
+[2025.04.09-14.17.18:949][543]LogViewport: Scene viewport resized to 3209x577, mode Windowed.
+[2025.04.09-14.17.19:358][546]LogViewport: Scene viewport resized to 3209x566, mode Windowed.
+[2025.04.09-14.17.19:390][547]LogViewport: Scene viewport resized to 3209x553, mode Windowed.
+[2025.04.09-14.17.19:420][548]LogViewport: Scene viewport resized to 3209x544, mode Windowed.
+[2025.04.09-14.17.19:443][549]LogViewport: Scene viewport resized to 3209x540, mode Windowed.
+[2025.04.09-14.17.19:484][552]LogViewport: Scene viewport resized to 3209x537, mode Windowed.
+[2025.04.09-14.17.19:712][575]LogViewport: Scene viewport resized to 3209x538, mode Windowed.
+[2025.04.09-14.19.24:738][159]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2025.04.09-14.19.24:742][159]LogContentBrowser: Creating deferred item: NewInterface
+[2025.04.09-14.19.24:749][160]LogContentBrowser: Renaming the item being created (Deferred Item: NewInterface).
+[2025.04.09-14.19.35:780][484]LogContentBrowser: Attempting asset rename: NewInterface -> ALS_Character_BPI
+[2025.04.09-14.19.35:891][484]LogContentBrowser: End creating deferred item NewInterface
+[2025.04.09-14.19.37:140][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AdvancedLocomotionV4/Blueprints/Interfaces/ALS_Character_BPI.ALS_Character_BPI
+[2025.04.09-14.19.37:141][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
