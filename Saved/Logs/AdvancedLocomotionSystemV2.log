@@ -1213,3 +1213,149 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2025.04.09-06.58.04:834][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2025.04.09-06.58.04:836][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2025.04.09-06.58.04:855][  0]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.04.09-07.07.10:930][177]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.04.09-07.07.10:965][177]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto1
+[2025.04.09-07.07.10:966][177]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto10C78719B427941A1AE2DCBA57EEEF24A.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto1.umap'
+[2025.04.09-07.07.10:969][177]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.058
+[2025.04.09-07.07.10:969][177]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2025.04.09-07.07.10:970][177]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-07.07.10:988][177]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP_C]
+[2025.04.09-07.07.10:993][177]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-07.07.10:993][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-07.07.11:005][177]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto1
+[2025.04.09-07.07.11:006][177]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto1AC8DCB254535378659E12BB1718D3DC0.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto1.uasset'
+[2025.04.09-07.07.11:007][177]LogFileHelpers: Auto-saving content packages took 0.038
+[2025.04.09-07.08.12:195][861]LogSlate: Took 0.005471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.04.09-07.17.11:570][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.09-07.17.11:571][968]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.023
+[2025.04.09-07.17.11:572][968]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-07.17.11:585][968]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-07.17.11:585][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-07.17.11:596][968]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto2
+[2025.04.09-07.17.11:596][968]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto25A4BE7184AC1AFE6A324288A26D2CBEF.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto2.uasset'
+[2025.04.09-07.17.11:597][968]LogFileHelpers: Auto-saving content packages took 0.026
+[2025.04.09-07.22.21:111][889]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2025.04.09-07.22.22:100][890]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2025.04.09-07.55.37:698][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.09-07.55.37:700][294]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.024
+[2025.04.09-07.55.37:700][294]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-07.55.37:711][294]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-07.55.37:711][294]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-07.55.37:722][294]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto3
+[2025.04.09-07.55.37:723][294]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto3BC75115C4DA2B63156AB9B99E89A3004.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto3.uasset'
+[2025.04.09-07.55.37:724][294]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.04.09-07.57.04:955][555]LogDerivedDataCache: C:/Users/wuyi7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.260 and deleted 0 file(s) with total size 0 MiB.
+[2025.04.09-07.57.37:940][243]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::Subtract_VectorVector' [找不到元素。]
+[2025.04.09-07.59.34:324][466]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-07.59.34:373][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.04.09-08.02.03:175][871]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP
+[2025.04.09-08.02.03:175][871]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP67F84B7B4C9644A0C014E1A7B4776B31.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.uasset'
+[2025.04.09-08.02.03:186][871]AssetCheck: New page: Asset Save: ALS_BaseCharacterBP
+[2025.04.09-08.02.03:186][871]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP
+[2025.04.09-08.05.38:401][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.04.09-08.05.38:436][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto4
+[2025.04.09-08.05.38:436][775]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto47997FA2A41BA861DA253AEBB15B4844E.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto4.umap'
+[2025.04.09-08.05.38:443][775]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.060
+[2025.04.09-08.05.38:443][775]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2025.04.09-08.05.38:443][775]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-08.05.38:452][775]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-08.05.38:452][775]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-08.05.38:464][775]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto4
+[2025.04.09-08.05.38:465][775]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto4781DDCDF424179F8F4E09FB86691A3B4.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto4.uasset'
+[2025.04.09-08.05.38:465][775]LogFileHelpers: Auto-saving content packages took 0.022
+[2025.04.09-08.06.22:463][864]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UCharacterMovementComponent::GetCurrentAcceleration' [找不到指定的模块。]
+[2025.04.09-08.07.37:457][845]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UCharacterMovementComponent::GetCurrentAcceleration' [找不到指定的模块。]
+[2025.04.09-08.07.37:857][853]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UCharacterMovementComponent::GetCurrentAcceleration' [找不到指定的模块。]
+[2025.04.09-08.08.53:904][256]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-08.08.53:946][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.09-08.10.12:457][885]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-08.10.12:502][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.09-08.15.39:172][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.04.09-08.15.39:207][633]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto5
+[2025.04.09-08.15.39:208][633]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto50A472AE340310D8B1F9B238FDB78893E.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto5.umap'
+[2025.04.09-08.15.39:210][633]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.057
+[2025.04.09-08.15.39:210][633]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2025.04.09-08.15.39:210][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-08.15.39:220][633]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-08.15.39:220][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-08.15.39:233][633]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto5
+[2025.04.09-08.15.39:233][633]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto5862E617A4A503AF237859389A58F56A0.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto5.uasset'
+[2025.04.09-08.15.39:234][633]LogFileHelpers: Auto-saving content packages took 0.024
+[2025.04.09-08.57.05:434][464]LogDerivedDataCache: C:/Users/wuyi7/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.444 and deleted 0 file(s) with total size 0 MiB.
+[2025.04.09-08.58.54:631][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.04.09-08.58.54:632][482]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.076
+[2025.04.09-08.58.54:633][482]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-08.58.54:638][482]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-08.58.54:638][482]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-08.58.54:650][482]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto6
+[2025.04.09-08.58.54:656][482]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto61B61E64F4ED6FB9F9B1874899A4E6FF6.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto6.uasset'
+[2025.04.09-08.58.54:656][482]LogFileHelpers: Auto-saving content packages took 0.024
+[2025.04.09-09.02.49:221][937]LogSlate: Took 0.019005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.04.09-09.04.25:344][132]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.04.25:453][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.09-09.04.25:983][180]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.04.26:052][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.09-09.04.26:126][184]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.04.26:205][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.04.09-09.08.54:768][559]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2025.04.09-09.08.54:810][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.09-09.08.54:846][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto7
+[2025.04.09-09.08.54:846][559]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto7B72E346443BC8FDA7B6CA8849F639BDF.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto7.umap'
+[2025.04.09-09.08.54:857][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.078
+[2025.04.09-09.08.54:857][559]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
+[2025.04.09-09.08.54:857][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-09.08.54:871][559]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-09.08.54:871][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-09.08.54:894][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto7
+[2025.04.09-09.08.54:895][559]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto7E109D9594705C40591EE2A913B54353A.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto7.uasset'
+[2025.04.09-09.08.54:896][559]LogFileHelpers: Auto-saving content packages took 0.039
+[2025.04.09-09.09.56:051][110]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.09.56:166][110]LogUObjectHash: Compacting FUObjectHashTables data took  34.10ms
+[2025.04.09-09.19.41:128][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.09-09.19.41:164][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto8
+[2025.04.09-09.19.41:164][876]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto85BA1C1FA4773760B5B2E778286C412C4.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto8.umap'
+[2025.04.09-09.19.41:181][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.110
+[2025.04.09-09.19.41:181][876]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.110
+[2025.04.09-09.19.41:181][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-09.19.41:185][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-09.19.41:185][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-09.19.41:201][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto8
+[2025.04.09-09.19.41:201][876]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto8CAA0EC8E4BB2A04A91C6B3BD185CB393.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto8.uasset'
+[2025.04.09-09.19.41:202][876]LogFileHelpers: Auto-saving content packages took 0.021
+[2025.04.09-09.22.37:421][497]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP
+[2025.04.09-09.22.37:425][497]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBPFC6B077F4257EEF8B5DB60800EB311E9.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.uasset'
+[2025.04.09-09.22.37:473][497]AssetCheck: New page: Asset Save: ALS_BaseCharacterBP
+[2025.04.09-09.22.37:473][497]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP
+[2025.04.09-09.22.57:819][550]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.22.57:890][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.09-09.26.02:532][387]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP
+[2025.04.09-09.26.02:533][387]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBPB3CA31014EC4C5F76185BE9E146D293B.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.uasset'
+[2025.04.09-09.26.02:543][387]AssetCheck: New page: Asset Save: ALS_BaseCharacterBP
+[2025.04.09-09.26.02:543][387]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP
+[2025.04.09-09.26.03:615][466]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.26.03:709][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.04.09-09.28.32:042][614]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.28.32:146][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.09-09.32.14:936][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.04.09-09.32.14:970][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto9
+[2025.04.09-09.32.14:971][674]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevel_Auto90CE1511048F00B157DE9EF94206F68C7.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel_Auto9.umap'
+[2025.04.09-09.32.14:973][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.068
+[2025.04.09-09.32.14:973][674]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2025.04.09-09.32.14:973][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP] ([2] browsable assets)...
+[2025.04.09-09.32.14:985][674]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP]
+[2025.04.09-09.32.14:985][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP]
+[2025.04.09-09.32.15:002][674]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto9
+[2025.04.09-09.32.15:003][674]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP_Auto97D3B7D90455EFC91A0CE13B75D7AA2E4.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP_Auto9.uasset'
+[2025.04.09-09.32.15:003][674]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.04.09-09.33.26:262][  5]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP
+[2025.04.09-09.33.26:263][  5]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_BaseCharacterBP50B23DF64483407A80531C92ECF76229.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.uasset'
+[2025.04.09-09.33.26:276][  5]AssetCheck: New page: Asset Save: ALS_BaseCharacterBP
+[2025.04.09-09.33.26:276][  5]LogContentValidation: Display: Validating Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_BaseCharacterBP.ALS_BaseCharacterBP
+[2025.04.09-09.33.26:925][ 65]BlueprintLog: New page: Compile ALS_BaseCharacterBP
+[2025.04.09-09.33.26:997][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.09-09.33.34:350][804]LogUObjectHash: Compacting FUObjectHashTables data took   9.31ms
+[2025.04.09-09.33.34:385][804]LogSavePackage: Moving output files for package: /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel
+[2025.04.09-09.33.34:385][804]LogSavePackage: Moving 'E:/UE/AdvancedLocomotionSystemV2/Saved/ALS_DemoLevelBA3FBBBD4469795070B395ACD0D023A1.tmp' to 'E:/UE/AdvancedLocomotionSystemV2/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap'
+[2025.04.09-09.33.34:479][804]LogFileHelpers: No new changes to save!
+[2025.04.09-09.33.34:490][804]AssetCheck: New page: Asset Save: ALS_DemoLevel
+[2025.04.09-09.33.34:490][804]LogContentValidation: Display: Validating World /Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel.ALS_DemoLevel
